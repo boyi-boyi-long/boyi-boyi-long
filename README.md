@@ -14,7 +14,6 @@
 ### LINE Bot & RAG 應用
 
 - 🇹🇼 [parent-navigator](https://github.com/boyi-boyi-long/parent-navigator) - 台灣育兒導航小幫手：LINE Bot + RAG + 網頁版 AI 問答助手
-- 💼 [linebotinterveiwtool](https://github.com/boyi-boyi-long/linebotinterveiwtool) - 用 LINE Bot 幫你準備面試的練習工具
 
 ### 生活與投資工具
 
