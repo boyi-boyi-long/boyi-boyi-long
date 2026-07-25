@@ -22,7 +22,5 @@
 - 📈 [taiwan-stock-screener](https://github.com/boyi-boyi-long/taiwan-stock-screener) - 台股選股篩選器
 
 
-## 技術
 
-`Python` · `LLM / Gemini` · `RAG` · `LINE Messaging API` · `Playwright` · `Telegram Bot API`
 
