@@ -15,10 +15,12 @@
 
 - 🇹🇼 [parent-navigator](https://github.com/boyi-boyi-long/parent-navigator) - 台灣育兒導航小幫手：LINE Bot + RAG + 網頁版 AI 問答助手
 
-### 生活與投資工具
+### 投資小工具
 
--  [baby_monitor](https://github.com/boyi-boyi-long/baby_monitor) - 寶寶狀態監控小工具
 -  [taiwan-stock-screener](https://github.com/boyi-boyi-long/taiwan-stock-screener) - 台股選股篩選器
 
+### 軟硬體整合
+
+-  [baby_monitor](https://github.com/boyi-boyi-long/baby_monitor) - 寶寶狀態監控小工具
 
 
