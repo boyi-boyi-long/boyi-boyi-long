@@ -1,7 +1,6 @@
 ### Hello! 
 
 我是 boyi，用 AI 輔助開發解決真實生活問題的小工具。
-
 主要在玩 Python、LLM／RAG、LINE Bot 與自動化 Agent
 
 ## Open Source Projects
