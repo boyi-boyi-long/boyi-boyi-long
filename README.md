@@ -12,7 +12,7 @@
 
 ### LINE Bot & RAG 應用
 
-- 🇹🇼 [parent-navigator](https://github.com/boyi-boyi-long/parent-navigator) - 台灣育兒導航小幫手：LINE Bot + RAG + 網頁版 AI 問答助手
+- [parent-navigator](https://github.com/boyi-boyi-long/parent-navigator) - 台灣育兒導航小幫手：LINE Bot + RAG + 網頁版 AI 問答助手
 
 ### 投資小工具
 
