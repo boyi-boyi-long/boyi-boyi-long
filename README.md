@@ -8,7 +8,6 @@
 
 ### AI Agents & 自動化
 
--  [threads-baby-agent](https://github.com/boyi-boyi-long/threads-baby-agent) - Threads 育兒貼文自動回覆助手：Playwright 抓文 + Gemini RAG 生草稿 + Telegram 人工審核 + 自動發留言
 -  [thread-final-v1](https://github.com/boyi-boyi-long/thread-final-v1) - Threads 自動化流程的整合版本
 
 ### LINE Bot & RAG 應用
